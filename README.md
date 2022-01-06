@@ -1,2 +1,1 @@
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<vaibhavk039>&theme=<THEME_NAME>" />
+<img src="https://raw.githubusercontent.com/Vaibhav_Kaushik/Vaibhav_Kaushik/master/wave.gif" width="30px">
