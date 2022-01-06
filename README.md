@@ -37,7 +37,7 @@
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 [![Twitter: vaibhavk039](https://img.shields.io/twitter/follow/vaibhav?style=social)](https://twitter.com/Vaibhav40637876)
-[![Linkedin: vaibhavk039](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/vaibhav-kaushik-758433122/)
+[![Linkedin: vaibhavk039](https://img.shields.io/badge/-vaibhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/vaibhav-kaushik-758433122/)
 [![GitHub vaibhavk039](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/vaibhavk039)
 [![website](https://img.shields.io/badge/PortfolioWebsite-vaibhav-2648ff?style=flat-square&logo=google-chrome)](https://vaibhav-live-portfolio.herokuapp.com/)
 
@@ -47,9 +47,9 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
