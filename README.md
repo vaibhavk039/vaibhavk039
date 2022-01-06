@@ -29,7 +29,7 @@
 
 
 
-- 🌱 I’m currently learning more about Flutter.
+- 🌱 I’m currently learning about Flutter.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UC0C5gqyEGXUhtCrBBf1DLqw).
 - 💬 Ask me about any tech-related stuff.
 - 📫 How to reach me: [Twitter - @vaibhav](https://twitter.com/Vaibhav40637876) , [Youtube - @vaibhav](https://www.youtube.com/channel/UC0C5gqyEGXUhtCrBBf1DLqw)
