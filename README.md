@@ -39,7 +39,7 @@
 [![Twitter: vaibhavk039](https://img.shields.io/twitter/follow/vaibhav?style=social)](https://twitter.com/Vaibhav40637876)
 [![Linkedin: vaibhavk039](https://img.shields.io/badge/-vaibhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/vaibhav-kaushik-758433122/)
 [![GitHub vaibhavk039](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/vaibhavk039)
-[![website](https://img.shields.io/badge/PortfolioWebsite-vaibhav-2648ff?style=flat-square&logo=google-chrome)](https://vaibhav-live-portfolio.herokuapp.com/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-vaibhav-2648ff?style=flat-square&logo=google-chrome)](http://vaibhav-portfolio-live.azurewebsites.net/)
 
 
 **Languages and Tools:**  
